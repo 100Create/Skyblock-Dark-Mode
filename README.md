@@ -8,9 +8,6 @@
     <a aria-label="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
         <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-brightgreen.svg">
     </a>
-    <a aria-label="github downloads" href="https://github.com/100Create/Skyblock-Dark-Mode/releases">
-        <img alt="" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
-    </a>
     <a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/skyblock-dark-mode/versions">
         <img alt="" src="https://cdn.modrinth.com/modrinth-new.png">
     </a>
