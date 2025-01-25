@@ -5,9 +5,6 @@
 </p>
 
 <p align="center">
-    <a aria-label="release" href="https://github.com/100Create/Skyblock-Dark-Mode/releases">
-        <img alt="" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
-    </a>
     <a aria-label="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
         <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-brightgreen.svg">
     </a>
@@ -15,9 +12,6 @@
         <img alt="" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png">
     </a>
     <a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/skyblock-dark-mode/versions">
-        <img alt="" src="https://cdn.modrinth.com/landing-new/landing.webp">
-    </a>
-    <a aria-label="curseforge downloads" href="https://www.curseforge.com/minecraft/texture-packs/skyblock-dark-mode">
         <img alt="" src="https://cdn.modrinth.com/modrinth-new.png">
     </a>
 </p>
