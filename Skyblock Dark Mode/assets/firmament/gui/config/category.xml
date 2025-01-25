@@ -1,0 +1,40 @@
+<Root>
+    <Center>
+        <Panel background="DARK_MODE" insets="10"> <!-- Changed from VANILLA to DARK_MODE -->
+            <Column>
+                <Row>
+                    <Align vertical="CENTER">
+                        <firm:Button onClick="@close">
+                            <Text text="Back" color="#FFFFFF"/> <!-- White text for better contrast -->
+                        </firm:Button>
+                    </Align>
+                    <Align vertical="CENTER">
+                        <Row>
+                            <Text text=" " color="#FFFFFF"/>
+                            <Text text="@name" color="#FFFFFF"/> <!-- White text for dynamic name -->
+                        </Row>
+                    </Align>
+                </Row>
+                <Spacer height="5"/>
+                <ScrollPanel width="400" height="300">
+                    <Array data="@configs">
+                        <firm:Fixed width="380" height="30">
+                            <Panel background="DARK_MODE_ITEM"> <!-- New texture for scrollable items -->
+                                <Center>
+                                    <Row>
+                                        <Center>
+                                            <Text text="@name" color="#FFFFFF"/> <!-- Dynamic text -->
+                                        </Center>
+                                        <firm:Button onClick="@openEditor">
+                                            <Text text="Edit" color="#FFFFFF"/> <!-- White button text -->
+                                        </firm:Button>
+                                    </Row>
+                                </Center>
+                            </Panel>
+                        </firm:Fixed>
+                    </Array>
+                </ScrollPanel>
+            </Column>
+        </Panel>
+    </Center>
+</Root>

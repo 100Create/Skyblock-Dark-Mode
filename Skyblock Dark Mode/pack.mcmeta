@@ -1,10 +1,8 @@
 {
-    "pack": {
-        "pack_format": 18,
-        "supported_formats": {
-            "min_inclusive": 18,
-            "max_inclusive": 34
-        },
-        "description": "Skyblock 1.21.1 Dark Mode - Forked from Default Dark mode by Nebuir"
-    }
+  "pack": {
+    "description": {
+      "text": "Skyblock Dark Mode"
+    },
+    "pack_format": 34
+  }
 }

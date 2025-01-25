@@ -14,10 +14,10 @@
     <a aria-label="license" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
         <img src="https://img.shields.io/badge/license-CC%20BY--NC--SA%204.0-brightgreen.svg">
     </a>
-    <a aria-label="github downloads" href="to add">
+    <a aria-label="github downloads" href="https://github.com/100Create/Skyblock-Dark-Mode/releases">
         <img alt="" src="to add">
     </a>
-    <a aria-label="modrinth downloads" href="to add">
+    <a aria-label="modrinth downloads" href="https://modrinth.com/resourcepack/skyblock-dark-mode/versions">
         <img alt="" src="to add">
     </a>
     <a aria-label="curseforge downloads" href="to add">
@@ -33,7 +33,7 @@
 
 ## Download
 
-All versions can be downloaded from the [GitHub Releases page](to add).
+All versions can be downloaded from the [GitHub Releases page](https://github.com/100Create/Skyblock-Dark-Mode/releases).
 
 This resource pack is also available on [Modrinth](to add), [CurseForge](to add), & [Planet Minecraft](to add).
 
@@ -56,3 +56,5 @@ A list of supported mods can be found on the [wiki](to add).
 ![Furnace](https://i.imgur.com/yhpuzBc.png)
 
 ![Anvil](https://i.imgur.com/xkHTdLG.png)
+
+![Storage Overlay](https://imgur.com/a/MC5E8xy)
