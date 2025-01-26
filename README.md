@@ -23,7 +23,7 @@
 
 All versions can be downloaded from the [GitHub Releases page](https://github.com/100Create/Skyblock-Dark-Mode/releases).
 
-This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/skyblock-dark-mode/versions), [CurseForge](https://www.curseforge.com/minecraft/texture-packs/skyblock-dark-mode), & [Planet Minecraft](https://www.planetminecraft.com/texture-pack/skyblock-dark-mode/).
+This resource pack is also available on [Modrinth](https://modrinth.com/resourcepack/skyblock-dark-mode/versions), [CurseForge](https://www.curseforge.com/minecraft/texture-packs/skyblock-dark-mode), & [Planet Minecraft](https://www.planetminecraft.com/texture-pack/skyblock-dark-mode-6521420/).
 
 ## Mod Support
 
